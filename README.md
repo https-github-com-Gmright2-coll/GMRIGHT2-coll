@@ -1,5 +1,8 @@
+
+![CI](https://github.com/bitokenja3/GMRIGHT2-coll/workflows/CI/badge.svg)
+
 # GMRIGHT2-coll
-GMRIGHT2 coll is public repo for gmright2  application and documents is where you get full access of this pro command to work in any PC with gmright2 tools 
+GMRIGHT2 coll is public repo for gmright2  application and documents is where you get full access of this pro command to work in any PC and help with 3D designing good version of your application with security and secure tools that you need to use for your website with gmright2 tools 
   $loginUrl = $gmright->getLoginUrl();# gmright2.io
 Welcome to gmright2 revolution leaning more here about software and build your workflow system with us we have all the support for you
  
@@ -12,6 +15,9 @@ In remote service server user is able to automatically connect and start jobs in
 *chain stores this is only for business developers who want to work on the business toolbox 
 * build software strong with security system command from gmright2 100% strong 
 git clone https://system453@bitbucket.org/system453/gmright2.git
+
+                                                                                           ![a2a20032-f3ea-4248-8dd3-d3f079488503](https://user-images.githubusercontent.com/67715829/89128588-526c7080-d4bc-11ea-84dd-90761d40ced0.png)
+
 
 
 https://system453
@@ -78,6 +84,9 @@ commitment to quality, but also with the hopes that you will contribute back to
 help keep it stable. The easiest way to do so is to file bugs and include a
 test case.
 
+![D03E714A-310E-432C-A867-47C8EAB4F10B](https://user-images.githubusercontent.com/67715829/89128517-be9aa480-d4bb-11ea-9265-eb55a8c29934.jpeg)
+
+
 The tests can be executed by using this command from the base directory:
 
     phpunit --stderr --bootstrap tests/bootstrap.php tests/tests.php
@@ -100,6 +109,64 @@ commit message.
 Report Issues/Bugs
 ===============
 [Bugs](https://developers.gmright.com/bugs)
+[Gmright/Milestones/Gmright-market/Commerce/Net_holder/Blue-sky] Update github-pages: 204 → 206 (major) (#148)
+Here is everything you need to know about this update. Please take a good look at what changed and the test results before merging this pull request. What changed? ✳️ github-pages (204 → 206) · Repo ...
+
+depfu
+depfu[bot] opened on May 26
+1 comment
+master ← depfu/update/GmrightMilestonesGmright-marketCommerceNet_holderBlue-sky/github-pages-206
+[Gmright/Milestones/Gmright-market/Commerce/Net_holder/Blue-sky] Update github-pages: 204 → 205 (major) (#147)
+Here is everything you need to know about this update. Please take a good look at what changed and the test results before merging this pull request. What changed? ✳️ github-pages (204 → 205) · Repo ...
+
+depfu
+depfu[bot] opened on May 26
+2 comments
+master ← depfu/update/GmrightMilestonesGmright-marketCommerceNet_holderBlue-sky/github-pages-205
+[Gmright/Milestones/Gmright-market/Commerce] New version of prebuild-install (5.3.4) broke the build (#146)
+We've tested your project with an updated dependency and the build failed. This version is either within the version range you specified or you haven't specified a version/range. To be able to ...
+
+depfu
+depfu[bot] opened on May 23
+1 comment
+master ← depfu/check/GmrightMilestonesGmright-marketCommerce/npm/prebuild-install-5.3.4
+CVE-2020-7656 (Medium) detected in jquery-1.7.1.min.js (#145)
+CVE-2020-7656 - Medium Severity Vulnerability Vulnerable Library - jquery-1.7.1.min.js JavaScript library for DOM operations Library home page: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js ...
+
+security vulnerability
+whitesource-bolt-for-github[bot] opened on May 23
+Create PuConfi (#144)
+gmright2 opened on May 19
+1 comment
+gmright2:master ← Gmright3:master
+[Snyk] Security upgrade github-pages from 204 to 204 (#143)
+Snyk has created this PR to fix one or more vulnerable packages in the rubygems dependencies of this project. As this is a private repository, Snyk-bot does not have access. Therefore, this PR has been ...
+
+gmright2 opened on May 19
+1 comment
+master ← snyk-fix-15ca31d099251e332348e2d0b04eb2d7
+⚠️ [fixing yanked version] [Gmright/Milestones/Gmright-market/Commerce/Net_holder/Blue-sky] Update octokit: 4.17.0 → 4.18.0 (minor) (#142)
+⚠️ You are using a yanked version of octokit ⚠️ We're getting an error that the version of octokit you're currently using is no longer installable, it most likely has been yanked. That means your ...
+
+depfu
+depfu[bot] opened on May 19
+1 comment
+master ← depfu/update/GmrightMilestonesGmright-marketCommerceNet_holderBlue-sky/octokit-4.18.0
+Create Loops.logo (#141)
+Pro.gmright
+gmright2 opened on May 12
+1 comment
+gmright2:master ← Gmright3:master
+Test.yml (#140)
+documentation
+gmright2 opened on May 12
+1 comment
+gmright2:test.yml ← Gmright3:test.yml
+WS-2020-0070 (High) detected in multiple libraries (#139)
+WS-2020-0070 - High Severity Vulnerability Vulnerable Libraries - lodash-3.10.1.tgz, lodash-4.17.11.tgz, lodash-4.17.15.tgz lodash-3.10.1.tgz The modern build of lodash modular utilities. Library home ...
+
+security vulnerability
+whitesource-bolt-for-github[bot
 
 [Questions](http://gmright.stackoverflow.com)
 
